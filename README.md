@@ -1,5 +1,5 @@
 # Roadblocks
-The worst game i ever made, here to see (mobile version)
+The worst game i ever made, here to see (mobile version) (yes there is a seperate web version)
 
 How this code is garbage:
 
