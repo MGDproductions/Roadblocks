@@ -18,3 +18,5 @@ How you will use it:
 - Pls port this monstrosity to unreal or any other game engine i beg to god
 
 - Credit me (pls) (thanks) but also this is my worst work so eh maybe not lol
+
+- Please don't upload the exact same game on google play or app store thx
