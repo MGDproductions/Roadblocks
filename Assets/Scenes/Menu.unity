@@ -5430,7 +5430,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 16.1, y: -622}
+  m_AnchoredPosition: {x: 8.89, y: -622}
   m_SizeDelta: {x: 545.7, y: 66.4}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1985308838
@@ -5466,7 +5466,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\xA9 MD productions 2021"
+  m_Text: "\xA9 MGD productions 2021"
 --- !u!222 &1985308839
 CanvasRenderer:
   m_ObjectHideFlags: 0
